@@ -8,8 +8,8 @@
 
 | Project | Description |
 |---|---|
-| [Thesis-Report](https://github.com/ChiefGuti/Thesis-Report) | MSc thesis: ML-enabled nonlinear phase noise mitigation for coherent optical systems (LaTeX, 2020) |
-| [Nonlinear-Fiber-Channel-Detection-Scheme](https://github.com/ChiefGuti/Nonlinear-Fiber-Channel-Detection-Scheme) | SVM + Random Forest classifiers for mQAM constellation detection in fiber-optic links (Python, Jupyter) |
+| [msc-photonics-thesis](https://github.com/ChiefGuti/msc-photonics-thesis) | MSc thesis: ML-enabled nonlinear phase noise mitigation for coherent optical systems (LaTeX, 2020) |
+| [optical-fiber-ml-classifier](https://github.com/ChiefGuti/optical-fiber-ml-classifier) | SVM + Random Forest classifiers for mQAM constellation detection in fiber-optic links (Python, Jupyter) |
 
 ## Side projects
 
