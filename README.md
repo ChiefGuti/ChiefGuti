@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Sergio Gutierrez. Physicist by training, engineer by trade. This is where I run my own experiments." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Sergio Gutierrez. Physicist by training, engineer by trade. This is where I run my own experiments." src="assets/banner-light.png" width="100%">
 </picture>
 
 I studied light: entangled photons in Colombia, then fibre optics and machine learning in Lund. Since 2020 I have worked at Ericsson, from digital pre-distortion and ASICs to 6G prototypes. In my own time I build machine-learning projects and small devices, and write them up.
