@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<rect width="900" height="440" rx="6" fill="#F2F3EF"/>
+<text x="78" y="30" font-size="13" fill="#141518" font-weight="600">SYMBOL ERROR RATE AGAINST DISTANCE · 16-QAM, SIMULATED (MSc, 2020)</text>
+<line x1="78" x2="872" y1="56.0" y2="56.0" stroke="#C6C9C4"/>
+<text x="68" y="60.0" font-size="12" fill="#5e625c" text-anchor="end">1</text>
+<line x1="78" x2="872" y1="134.5" y2="134.5" stroke="#C6C9C4"/>
+<text x="68" y="138.5" font-size="12" fill="#5e625c" text-anchor="end">10⁻³</text>
+<line x1="78" x2="872" y1="213.0" y2="213.0" stroke="#C6C9C4"/>
+<text x="68" y="217.0" font-size="12" fill="#5e625c" text-anchor="end">10⁻⁶</text>
+<line x1="78" x2="872" y1="291.5" y2="291.5" stroke="#C6C9C4"/>
+<text x="68" y="295.5" font-size="12" fill="#5e625c" text-anchor="end">10⁻⁹</text>
+<line x1="78" x2="872" y1="370.0" y2="370.0" stroke="#C6C9C4"/>
+<text x="68" y="374.0" font-size="12" fill="#5e625c" text-anchor="end">10⁻¹²</text>
+<line x1="78.0" x2="78.0" y1="56" y2="370" stroke="#C6C9C4"/>
+<text x="78.0" y="390" font-size="12" fill="#5e625c" text-anchor="middle">0</text>
+<line x1="210.3" x2="210.3" y1="56" y2="370" stroke="#C6C9C4"/>
+<text x="210.3" y="390" font-size="12" fill="#5e625c" text-anchor="middle">400</text>
+<line x1="342.7" x2="342.7" y1="56" y2="370" stroke="#C6C9C4"/>
+<text x="342.7" y="390" font-size="12" fill="#5e625c" text-anchor="middle">800</text>
+<line x1="475.0" x2="475.0" y1="56" y2="370" stroke="#C6C9C4"/>
+<text x="475.0" y="390" font-size="12" fill="#5e625c" text-anchor="middle">1200</text>
+<line x1="607.3" x2="607.3" y1="56" y2="370" stroke="#C6C9C4"/>
+<text x="607.3" y="390" font-size="12" fill="#5e625c" text-anchor="middle">1600</text>
+<line x1="739.7" x2="739.7" y1="56" y2="370" stroke="#C6C9C4"/>
+<text x="739.7" y="390" font-size="12" fill="#5e625c" text-anchor="middle">2000</text>
+<line x1="872.0" x2="872.0" y1="56" y2="370" stroke="#C6C9C4"/>
+<text x="872.0" y="390" font-size="12" fill="#5e625c" text-anchor="middle">2400</text>
+<text x="872" y="416" font-size="12" fill="#5e625c" text-anchor="end">distance, km (80 km spans)</text>
+<line x1="78" x2="872" y1="186.8" y2="186.8" stroke="#141518" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="222" y="204.8" font-size="12" fill="#141518" text-anchor="start">reliable below 10⁻⁵</text>
+<polyline points="104.5,370.0 130.9,370.0 157.4,370.0 183.9,370.0 210.3,370.0 236.8,370.0 263.3,370.0 289.7,331.9 316.2,288.8 342.7,255.1 369.1,230.1 395.6,208.7 422.1,190.6 448.5,175.8 475.0,163.5 501.5,153.0 527.9,144.0 554.4,136.6 580.9,130.1 607.3,124.5 633.8,119.6 660.3,115.3 686.7,111.5 713.2,108.2 739.7,105.1 766.1,102.4 792.6,100.0 819.1,97.8 845.5,95.8 872.0,94.0" fill="none" stroke="#AE2419" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="104.5" cy="370.0" r="2.6" fill="#AE2419"/>
+<circle cx="130.9" cy="370.0" r="2.6" fill="#AE2419"/>
+<circle cx="157.4" cy="370.0" r="2.6" fill="#AE2419"/>
+<circle cx="183.9" cy="370.0" r="2.6" fill="#AE2419"/>
+<circle cx="210.3" cy="370.0" r="2.6" fill="#AE2419"/>
+<circle cx="236.8" cy="370.0" r="2.6" fill="#AE2419"/>
+<circle cx="263.3" cy="370.0" r="2.6" fill="#AE2419"/>
+<circle cx="289.7" cy="331.9" r="2.6" fill="#AE2419"/>
+<circle cx="316.2" cy="288.8" r="2.6" fill="#AE2419"/>
+<circle cx="342.7" cy="255.1" r="2.6" fill="#AE2419"/>
+<circle cx="369.1" cy="230.1" r="2.6" fill="#AE2419"/>
+<circle cx="395.6" cy="208.7" r="2.6" fill="#AE2419"/>
+<circle cx="422.1" cy="190.6" r="2.6" fill="#AE2419"/>
+<circle cx="448.5" cy="175.8" r="2.6" fill="#AE2419"/>
+<circle cx="475.0" cy="163.5" r="2.6" fill="#AE2419"/>
+<circle cx="501.5" cy="153.0" r="2.6" fill="#AE2419"/>
+<circle cx="527.9" cy="144.0" r="2.6" fill="#AE2419"/>
+<circle cx="554.4" cy="136.6" r="2.6" fill="#AE2419"/>
+<circle cx="580.9" cy="130.1" r="2.6" fill="#AE2419"/>
+<circle cx="607.3" cy="124.5" r="2.6" fill="#AE2419"/>
+<circle cx="633.8" cy="119.6" r="2.6" fill="#AE2419"/>
+<circle cx="660.3" cy="115.3" r="2.6" fill="#AE2419"/>
+<circle cx="686.7" cy="111.5" r="2.6" fill="#AE2419"/>
+<circle cx="713.2" cy="108.2" r="2.6" fill="#AE2419"/>
+<circle cx="739.7" cy="105.1" r="2.6" fill="#AE2419"/>
+<circle cx="766.1" cy="102.4" r="2.6" fill="#AE2419"/>
+<circle cx="792.6" cy="100.0" r="2.6" fill="#AE2419"/>
+<circle cx="819.1" cy="97.8" r="2.6" fill="#AE2419"/>
+<circle cx="845.5" cy="95.8" r="2.6" fill="#AE2419"/>
+<circle cx="872.0" cy="94.0" r="2.6" fill="#AE2419"/>
+<polyline points="104.5,370.0 130.9,370.0 157.4,370.0 183.9,370.0 210.3,370.0 236.8,370.0 263.3,370.0 289.7,370.0 316.2,370.0 342.7,362.2 369.1,333.3 395.6,306.0 422.1,283.3 448.5,263.3 475.0,246.1 501.5,231.5 527.9,218.8 554.4,207.0 580.9,198.0 607.3,190.0 633.8,182.4 660.3,175.6 686.7,169.2 713.2,163.3 739.7,157.9 766.1,152.8 792.6,148.3 819.1,144.0 845.5,140.0 872.0,136.4" fill="none" stroke="#1F5FA8" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="104.5" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="130.9" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="157.4" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="183.9" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="210.3" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="236.8" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="263.3" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="289.7" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="316.2" cy="370.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="342.7" cy="362.2" r="2.6" fill="#1F5FA8"/>
+<circle cx="369.1" cy="333.3" r="2.6" fill="#1F5FA8"/>
+<circle cx="395.6" cy="306.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="422.1" cy="283.3" r="2.6" fill="#1F5FA8"/>
+<circle cx="448.5" cy="263.3" r="2.6" fill="#1F5FA8"/>
+<circle cx="475.0" cy="246.1" r="2.6" fill="#1F5FA8"/>
+<circle cx="501.5" cy="231.5" r="2.6" fill="#1F5FA8"/>
+<circle cx="527.9" cy="218.8" r="2.6" fill="#1F5FA8"/>
+<circle cx="554.4" cy="207.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="580.9" cy="198.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="607.3" cy="190.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="633.8" cy="182.4" r="2.6" fill="#1F5FA8"/>
+<circle cx="660.3" cy="175.6" r="2.6" fill="#1F5FA8"/>
+<circle cx="686.7" cy="169.2" r="2.6" fill="#1F5FA8"/>
+<circle cx="713.2" cy="163.3" r="2.6" fill="#1F5FA8"/>
+<circle cx="739.7" cy="157.9" r="2.6" fill="#1F5FA8"/>
+<circle cx="766.1" cy="152.8" r="2.6" fill="#1F5FA8"/>
+<circle cx="792.6" cy="148.3" r="2.6" fill="#1F5FA8"/>
+<circle cx="819.1" cy="144.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="845.5" cy="140.0" r="2.6" fill="#1F5FA8"/>
+<circle cx="872.0" cy="136.4" r="2.6" fill="#1F5FA8"/>
+<polyline points="104.5,370.0 130.9,306.8 157.4,147.7 183.9,107.7 210.3,92.3 236.8,85.0 263.3,81.1 289.7,78.8 316.2,77.2 342.7,76.0 369.1,74.9 395.6,73.9 422.1,72.9 448.5,71.9 475.0,71.0 501.5,70.2 527.9,69.5 554.4,68.8 580.9,68.2 607.3,67.6 633.8,67.0 660.3,66.4 686.7,65.8 713.2,65.1 739.7,64.4 766.1,63.7 792.6,63.0 819.1,62.3 845.5,61.6 872.0,61.0" fill="none" stroke="#AE2419" stroke-width="2" stroke-dasharray="7 4" stroke-linejoin="round"/>
+<polyline points="104.5,370.0 130.9,370.0 157.4,370.0 183.9,288.2 210.3,199.2 236.8,153.7 263.3,127.7 289.7,112.0 316.2,101.9 342.7,95.1 369.1,90.3 395.6,86.9 422.1,84.4 448.5,82.4 475.0,80.9 501.5,79.7 527.9,78.7 554.4,77.9 580.9,77.2 607.3,76.6 633.8,76.0 660.3,75.4 686.7,74.9 713.2,74.3 739.7,73.8 766.1,73.3 792.6,72.8 819.1,72.3 845.5,71.8 872.0,71.3" fill="none" stroke="#1F5FA8" stroke-width="2" stroke-dasharray="7 4" stroke-linejoin="round"/>
+<rect x="530" y="248" width="336" height="100" rx="4" fill="#F2F3EF" stroke="#C6C9C4"/>
+<line x1="542" x2="568" y1="262" y2="262" stroke="#AE2419" stroke-width="2.5"/><text x="578" y="266" font-size="12" fill="#141518">raw, 0.17 mW · reach 1040 km</text>
+<line x1="542" x2="568" y1="284" y2="284" stroke="#1F5FA8" stroke-width="2.5"/><text x="578" y="288" font-size="12" fill="#141518">compensated, 0.17 mW · reach 1600 km</text>
+<line x1="542" x2="568" y1="306" y2="306" stroke="#AE2419" stroke-width="2.5" stroke-dasharray="7 4"/><text x="578" y="310" font-size="12" fill="#141518">raw, 1 mW · reach 160 km</text>
+<line x1="542" x2="568" y1="328" y2="328" stroke="#1F5FA8" stroke-width="2.5" stroke-dasharray="7 4"/><text x="578" y="332" font-size="12" fill="#141518">compensated, 1 mW · reach 400 km</text>
+</svg>
