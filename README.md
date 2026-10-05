@@ -43,13 +43,13 @@ I studied light: entangled photons in Colombia, then fibre optics and machine le
 
 A fibre's Kerr effect turns bright symbols further than dim ones, and a square constellation winds into a spiral that straight decision lines cannot separate. Instead of modelling the fibre, I let a classifier learn the decision regions from the received symbols.
 
-<img src="assets/journey.webp" alt="Five constellations: a neat grid of blue, violet and red points winding into crescents, then rings, as the signal travels further" width="100%">
+<img src="assets/journey.webp" alt="Five constellations: a neat grid of blue, teal and green points winding into crescents, then rings, as the signal travels further" width="100%">
 
-<sub>The thesis in one row: 16-QAM at 1 mW after 0, 16, 32, 48 and 63 spans of 80 km. Each point is a received symbol, coloured by the power of the symbol sent: blue inner, violet middle, red outer. The brighter the symbol, the further the fibre turns it.</sub>
+<sub>The thesis in one row: 16-QAM at 1 mW after 0, 16, 32, 48 and 63 spans of 80 km. Each point is a received symbol, coloured by the power of the symbol sent: blue inner, teal middle, green outer. The brighter the symbol, the further the fibre turns it.</sub>
 
 <table>
 <tr>
-<td width="50%"><img src="assets/spiral.webp" alt="Span 63: red and violet symbols smeared into rings around four tight blue clusters" width="100%"></td>
+<td width="50%"><img src="assets/spiral.webp" alt="Span 63: green and teal symbols smeared into rings around four tight blue clusters" width="100%"></td>
 <td width="50%"><img src="assets/regions.webp" alt="The same symbols inside the flat tinted regions a random forest learned, following the rings" width="100%"></td>
 </tr>
 <tr>
