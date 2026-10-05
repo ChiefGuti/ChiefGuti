@@ -5,7 +5,7 @@
 
 I studied light: entangled photons in Colombia, then fibre optics and machine learning in Lund. Since 2020 I have worked at Ericsson, from digital pre-distortion and ASICs to 6G prototypes. In my own time I build machine-learning projects and small devices, and write them up.
 
-**[Website](https://website-nine-olive-89.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/sergio-gutierrez-a43875183/)** · **[Email](mailto:sergio.s.gutierrez@outlook.com)**
+**[Website](https://website-nine-olive-89.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/sergio-guti%C3%A9rrez-a43875183/)** · **[Email](mailto:sergio.s.gutierrez@outlook.com)**
 
 > *"Nothing is too wonderful to be true, if it be consistent with the laws of nature; and in such things as these, experiment is the best test of such consistency."*
 > — Michael Faraday, laboratory diary, 1849
