@@ -5,7 +5,7 @@
 
 I studied light: entangled photons in Colombia, then fibre optics and machine learning in Lund. Since 2020 I have worked at Ericsson, from digital pre-distortion and ASICs to 6G prototypes. In my own time I build machine-learning projects and small devices, and write them up.
 
-**[Website](https://website-nine-olive-89.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/sergio-guti%C3%A9rrez-a43875183/)** · **[Email](mailto:sergio.s.gutierrez@outlook.com)**
+**[Website](https://sergiosgutierrez.com)** · **[LinkedIn](https://www.linkedin.com/in/sergio-guti%C3%A9rrez-a43875183/)** · **[Email](mailto:sergio.s.gutierrez@outlook.com)**
 
 > *"Nothing is too wonderful to be true, if it be consistent with the laws of nature; and in such things as these, experiment is the best test of such consistency."*
 > — Michael Faraday, laboratory diary, 1849
@@ -24,7 +24,7 @@ I studied light: entangled photons in Colombia, then fibre optics and machine le
 <td width="50%" valign="top">
 <img src="assets/card.webp" alt="Render of the WF-01 weather frame: an e-paper screen in a graphite case" width="100%"><br>
 <b>WF-01 Weather Frame</b> · the first device written up as a datasheet: a 3D model you can take apart, the wiring and a power budget.<br>
-<sub>Render of the 3D model. <a href="https://website-nine-olive-89.vercel.app/lab/prototypes/wf-01">Datasheet →</a></sub>
+<sub>Render of the 3D model. <a href="https://sergiosgutierrez.com/lab/prototypes/wf-01">Datasheet →</a></sub>
 </td>
 </tr>
 </table>
@@ -33,7 +33,7 @@ I studied light: entangled photons in Colombia, then fibre optics and machine le
 |---|---|---|
 | [random-plan](https://github.com/ChiefGuti/random-plan) | One button, one random hidden-gem plan in Malmö. A daily scraper keeps the list fresh. | FastAPI · Turso · GitHub Actions · Vercel |
 | [claude-load](https://github.com/ChiefGuti/claude-load) | My Claude Code set-up, portable: 18 agents, 8 safety hooks, 21 commands. Clone it and Claude walks you through the install. | Claude Code · shell |
-| [Personal site](https://website-nine-olive-89.vercel.app) | Theses, lab datasheets and notes in a datasheet style, with interactive figures drawn from the thesis data. | Next.js · MDX · three.js |
+| [Personal site](https://sergiosgutierrez.com) | Theses, lab datasheets and notes in a datasheet style, with interactive figures drawn from the thesis data. | Next.js · MDX · three.js |
 
 ---
 
@@ -62,7 +62,7 @@ A fibre's Kerr effect turns bright symbols further than dim ones, and a square c
 
 <sub>Drawn from the thesis simulation files. On the long single-channel link the learned receiver matched the compensation scheme that knows the link, and stretched reach 2.5 times.</sub>
 
-[Thesis (PDF and LaTeX)](https://github.com/ChiefGuti/msc-photonics-thesis) · [Simulation and classifier code](https://github.com/ChiefGuti/optical-fiber-ml-classifier) · [Interactive version](https://website-nine-olive-89.vercel.app/research/nonlinear-phase-noise)
+[Thesis (PDF and LaTeX)](https://github.com/ChiefGuti/msc-photonics-thesis) · [Simulation and classifier code](https://github.com/ChiefGuti/optical-fiber-ml-classifier) · [Interactive version](https://sergiosgutierrez.com/research/nonlinear-phase-noise)
 
 ### BSc · Universidad de los Andes · 2017 · entangled photons
 
@@ -76,7 +76,7 @@ A fibre's Kerr effect turns bright symbols further than dim ones, and a square c
 </tr>
 </table>
 
-The lab taught me order: a clear concept, a careful attempt, an honest assessment, then another try. [Read the story →](https://website-nine-olive-89.vercel.app/research/entangled-photons)
+The lab taught me order: a clear concept, a careful attempt, an honest assessment, then another try. [Read the story →](https://sergiosgutierrez.com/research/entangled-photons)
 
 ---
 
